@@ -10,5 +10,4 @@
 ```bash
   npm run deploy
 ```
-<input id="blob-path" value="src/index.js">
 <h2>Output:</h2>
