@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran B L S</h1>
-<h3 align="center">As part of bharat internship, I have made Video conference website.</h3>
+<h3 align="center">As part of bharat internship, I have made an Video conference website.</h3>
 
 <p align="left">
 </p>
@@ -44,4 +44,7 @@
 ```
 
 <h2>Output:</h2>
-<img width="960" alt="Screenshot 2023-09-12 214640" src="https://github.com/Bayyana-kiran/bharat_intern_task_3/assets/99533113/af2204e0-9c46-4933-b895-6a29b4658765">
+
+
+https://github.com/Bayyana-kiran/bharat_intern_task_3/assets/99533113/be7657f8-0611-45ad-bf52-3903404c36b5
+
